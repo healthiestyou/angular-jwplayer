@@ -1,3 +1,8 @@
 {
-  "name": "angular-jwplayer"
+  "name": "angular-jwplayer",
+  "description": "",
+  "main": "dist/angular-jwplayer.min.js",
+  "moduleType": [],
+  "homepage": "",
+  "private": true
 }
